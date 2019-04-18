@@ -51,6 +51,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BinarrySearch.cs" />
+    <Compile Include="Clocks\CallEventArgs.cs" />
+    <Compile Include="Clocks\Clock.cs" />
+    <Compile Include="Clocks\FirstClass.cs" />
+    <Compile Include="Clocks\SecondClass.cs" />
+    <Compile Include="Clocks\Subscriber.cs" />
+    <Compile Include="Clocks\ThirdClass.cs" />
     <Compile Include="Fibonacci.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
